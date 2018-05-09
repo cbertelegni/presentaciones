@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Presentaciones ",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cbertelegni/presentaciones.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp server"
@@ -14,6 +18,7 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-server-livereload": "^1.9.2"
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-gh-pages": "^0.5.4"
   }
 }
