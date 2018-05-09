@@ -4,11 +4,16 @@
   "description": "Presentaciones ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp server"
   },
   "keywords": [
     "presentaciones"
   ],
   "author": "cbertelegni",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
 }
