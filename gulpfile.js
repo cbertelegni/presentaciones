@@ -1,6 +1,7 @@
-var gulp   = require('gulp');
-var server = require('gulp-server-livereload');
-var ghPages = require('gulp-gh-pages');
+const gulp   = require('gulp');
+const server = require('gulp-server-livereload');
+const ghPages = require('gulp-gh-pages');
+const image = require('gulp-image');
 
 gulp.task('server', function() {
   gulp.src('source/')
@@ -15,9 +16,12 @@ gulp.task('server', function() {
 });
 
 
-/** mahe and push github page branch from build folder */
+/** publish gh-page*/
 gulp.task('gh-page', function() {
 
     return gulp.src('source/**/*')
         .pipe(ghPages());
 });
+
+
+ 
