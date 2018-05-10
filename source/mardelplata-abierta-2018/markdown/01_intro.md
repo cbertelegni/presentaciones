@@ -2,9 +2,9 @@
 
 ## La Nación Data
 
-_"De los datos a la viz"_
+<!-- _"De los datos a la viz"_ -->
 
-_[Cristian Bertelegni][cbertelegni]_
+Cristian Bertelegni - _[@cbertelegni][cbertelegni]_
 
 
 [cbertelegni]: https://twitter.com/cbertelegni

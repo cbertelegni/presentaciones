@@ -19,5 +19,5 @@
 
 #### _Haciendo preguntas a los datos..._
 
-En un micro, BUE-MDQ, viendo el dataset entendí que nos podían contar algo mas...
+En un micro BUE-MDQ, el dataset dijo que pude contar algo más...
 
