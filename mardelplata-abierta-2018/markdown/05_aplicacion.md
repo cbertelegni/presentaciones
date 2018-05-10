@@ -21,8 +21,8 @@ Note: Luego con el equipo de LNdata y LNcreativa pensamos que había una manera 
 ¿Cómo se alimenta la aplicación? 
 
 * Cada semana se actualiza la base de datos con un csv generado desde los pdf por medio de un OCR.
-* Manualmente se le da un nombre mediatico a cada ley.
-* Se agrega la orientación política para cada funcionario en base a la interpretación política de LN. 
+* Manualmente se le da un nombre mediático a cada ley.
+* Se agrega la orientación política para cada legislador en base a la interpretación política de LN. 
 
 <!-- <img alt="Aplicación Crongresoscopio" data-src="./images/admin-congresoscopio.png">  -->
 

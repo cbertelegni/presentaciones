@@ -2,7 +2,7 @@
 <p >¿Cómo nace Congresoscopio?</p>
 
 <h3 class="fragment" data-autoslide="1000">_De una necesidad concreta_</h3>
-<p class="fragment">"Mostrar cómo votan los funcionarios"</p>
+<p class="fragment">"Mostrar cómo votan los legisladores"</p>
 
 
 [vertical-sep]
