@@ -13,7 +13,9 @@
         <link rel="stylesheet" href="../reveal.js/lib/css/zenburn.css">
 
         <!-- Theme selection -->
-        <link rel="stylesheet" href="../reveal.js/css/theme/black.css" id="theme">
+        <!-- <link rel="stylesheet" href="../reveal.js/css/theme/black.css" id="theme"> -->
+        <!-- <link rel="stylesheet" href="../reveal.js/css/theme/white.css" id="theme"> -->
+        <link rel="stylesheet" href="../reveal.js/css/theme/night.css" id="theme">
         <link rel="stylesheet" href="css/style.css">
 
         <!-- Printing and PDF exports -->
@@ -58,7 +60,8 @@
                          data-separator="^\n\[slide-sep\]\n\n"
                          data-separator-vertical="^\n\[vertical-sep\]\n\n"
                          data-separator-notes="^Note:"
-                         data-charset="utf-8">
+                         data-charset="utf-8"
+                         data-background="#333">
                 </section>
                 <section data-markdown="markdown/05_aplicacion.md"
                          data-separator="^\n\[slide-sep\]\n\n"
@@ -85,6 +88,7 @@
               
             </div>
         </div>
+
 
         <script src="../reveal.js/lib/js/head.min.js"></script>
         <script src="../reveal.js/js/reveal.js"></script>
@@ -113,5 +117,9 @@
                 ]
             });
         </script>
+         <div id="controls_slides_mobile">
+            <button class="prev" onclick="Reveal.navigatePrev()">Prev</button>
+            <button class="next" onclick="Reveal.navigateNext()">Next</button>
+        </div>
     </body>
 </html>

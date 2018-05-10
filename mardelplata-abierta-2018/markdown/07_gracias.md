@@ -1,5 +1,12 @@
 
 
+### ¿Qué aprendimos?
+
+* Los datos responden pregunta
+* El trabajo en equipo potencia elproyecto
+* ...
+
+[vertical-sep]
 
 ##### Créditos congresoscopio
 

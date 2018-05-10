@@ -15,7 +15,7 @@ Note: Luego con el equipo de LNdata y LNcreativa pensamos que había una manera 
 
 [vertical-sep]
 
-* Cada semana se actualiza la base de datos con el csv antes mencionado
+* Cada semana se actualiza la base de datos con un csv generado desde los pdf por medio de un OCR.
 * Panel de administración
 
 <img alt="Aplicación Crongresoscopio" data-src="./images/admin_django.gif"> 
