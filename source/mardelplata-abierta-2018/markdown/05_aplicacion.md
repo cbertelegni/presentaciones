@@ -22,7 +22,7 @@ Note: Luego con el equipo de LNdata y LNcreativa pensamos que había una manera 
 
 * Cada semana se actualiza la base de datos con un csv generado desde los pdf por medio de un OCR.
 * Manualmente se le da un nombre mediatico a cada ley
-* Se agrega la orientación palítica para cada funcionario en base 
+* Se agrega la orientación política para cada funcionario en base 
 
 <!-- <img alt="Aplicación Crongresoscopio" data-src="./images/admin-congresoscopio.png">  -->
 
