@@ -2,9 +2,9 @@
 
 ### ¿Qué aprendimos?
 
-* Los datos responden pregunta
-* El trabajo en equipo potencia elproyecto
-* ...
+* Los datos responden preguntas
+* El trabajo en equipo potencia el proyecto
+* Es una muy buena inversión automatizar tareas
 
 [vertical-sep]
 
