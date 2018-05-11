@@ -22,3 +22,10 @@
 
 
 # ¡Gracias!
+
+
+Cristian Bertelegni - _[@cbertelegni][cbertelegni]_
+[cbertelegni]: https://twitter.com/cbertelegni
+
+La Nación Data
+
