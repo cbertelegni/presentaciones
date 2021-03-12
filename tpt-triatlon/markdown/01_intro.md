@@ -1,6 +1,6 @@
 ### Si te gusta sufrir... 
 
-## Suport TPT + triatlon
+## Support TPT + triatlon
 
 <!-- _"De los datos a la viz"_ -->
 
