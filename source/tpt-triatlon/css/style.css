@@ -1,0 +1,20 @@
+/** Custom controls for presentation with broser-sync */
+#controls_slides_mobile { position: fixed; z-index: 10000; width: 100%; height: 100px; bottom: 0; left: 0; }
+#controls_slides_mobile .prev, #controls_slides_mobile .next {
+	position: absolute; top:0; left: 25%; 
+	font-size: 18px;
+	color: #fff;
+	background: rgba(0, 0, 0, 0.4 );
+	border-radius: 5px;
+	padding: 10px 15px;
+
+
+}
+#controls_slides_mobile .prev {}
+#controls_slides_mobile .next {left: 75%; border-left: 1px solid #fff;}
+
+#controls_slides_mobile { display: none; }
+@media only screen and (max-width: 600px) {
+	#controls_slides_mobile { display: block; }
+}
+/** /Custom controls for presentation with broser-sync */
